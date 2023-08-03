@@ -1,0 +1,9 @@
+This is a sample text file for import purposes. It demonstrates the application capabilities. Check the following sentences for their status and paragraph marking.
+
+This is a new paragraph. The text is this paragraph is marked by the value in the Is First Sentence column.
+
+This is a demonstration of duplicate sentences navigation. This is a duplicate. This is a duplicate. This is not a duplicate. This is also not a duplicate. This is a duplicate.
+
+Another group of duplicated sentences. Sentence is duplicated. Sentence is unique. Sentence is just a placeholder. Sentence is duplicated. Sentence is  duplicated.
+
+You can modify the text in sentences. Export the contents as a text file to see the output structure. The export feature will clean any whitespaces within a sentence.
